@@ -1,6 +1,6 @@
 # <div align="center">ATUS Analysis</div>
 
-The ATUS Analysis notebook used data from the [U.S. Department of Labor's 2014 survey](www.bls.gov/tus/) on Americans' time use for research and analysis in the attempt to find useful and interesting correlations.
+The ATUS Analysis notebook uses data from the [U.S. Department of Labor's 2014 survey](www.bls.gov/tus/) on Americans' time use for research and analysis in the attempt to find useful and interesting correlations.
 
 ## <div align="center">Instructions</div>
 
